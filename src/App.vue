@@ -26,7 +26,7 @@
   </header>
   <main>
     <section class="mt-5">
-      <h1>Vue + Bootstrap</h1>
+      <h1>Vue + Bootstrap5</h1>
       <h1>{{ $t('welcome') }}</h1>
       <p>{{ $t('message') }}</p>
     </section>
