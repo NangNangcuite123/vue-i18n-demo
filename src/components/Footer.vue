@@ -1,5 +1,5 @@
 <template>
-  <footer class="site-footer position-absolute bottom-0 w-100">
+  <footer class="site-footer w-100">
     <div class="footer-content">
       <p>&copy; 2025 My Vue Site. All rights reserved.</p>
       <nav class="footer-links">

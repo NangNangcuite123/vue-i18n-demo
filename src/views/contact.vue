@@ -1,8 +1,6 @@
 <template>
   <main>
     <div class="container">
-         <h1>Contact Page</h1>
-         <h1>Global style Button See More</h1>
     </div>
     <section class="mt-5">
         <div class="container">
@@ -53,6 +51,9 @@
   </main>
 </template>
 <style>
+    .card-img-top{
+        height: 200px;
+    }
     .btn{
         background-color: black !important;
         color: white !important;

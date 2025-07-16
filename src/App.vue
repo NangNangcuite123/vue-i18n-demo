@@ -1,6 +1,6 @@
 <template>
     <site-header />
-    <site-footer />
+    <!-- <site-footer /> -->
 </template>
 
 <script setup>

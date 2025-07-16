@@ -2,8 +2,6 @@
    
   <main>
     <div class="container">
-         <h1>About Page</h1>
-         <h1>Global style Button See More</h1>
     </div>
     <section class="mt-5">
         <div class="container">
